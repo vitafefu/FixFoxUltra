@@ -18,3 +18,10 @@ MemoryCaptures/
 *.mdb
 *.opendb
 *.VC.db
+.vs/
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
